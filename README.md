@@ -1,4 +1,4 @@
-# Employee Tracker - [![License: MIT License]
+# Employee Tracker - ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
 
 Track employees tasks and department data through an application.
